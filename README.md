@@ -12,5 +12,5 @@ I will leave small lessons here that I do not need to write in blogs.
 # TOC
 
 * [Git](git.md)
-* [Editor - Goland](goland.md)
-
+* [Goland](goland.md)
+* [Qiita API v2](qiita_api.md)
