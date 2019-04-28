@@ -1,0 +1,15 @@
+# Git
+
+## Setup when clone new repository
+
+1. `git config --add user.name laqiiz`
+2. `git config --add user.email xxxx@gmail.com`
+3. `git remote set-url origin https://<user>:<pass>@github.com/<username>/<repoistory name>.git`
+
+
+## Cancel git commit
+
+* `git reset --soft HEAR~1`
+  * remains work code
+
+
