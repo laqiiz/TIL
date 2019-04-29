@@ -11,7 +11,7 @@
 ## Linter
 
 * `gometalinter`
-  * `$FileDir$ --fast --disable=dupl`
+  * `$FileDir$ --fast --disable=dupl --disable=golint`
   
 
 ## Debugger error
