@@ -16,3 +16,4 @@ I will leave small lessons here that I do not need to write in blogs.
 * [Goland](goland.md)
 * [Qiita API v2](qiita_api.md)
 * [Terraform](terraform.md)
+* [Bash(shell script)](bash.md)
