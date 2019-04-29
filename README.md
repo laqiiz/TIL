@@ -15,3 +15,4 @@ I will leave small lessons here that I do not need to write in blogs.
 * [Go Language](golang.md)
 * [Goland](goland.md)
 * [Qiita API v2](qiita_api.md)
+* [Terraform](terraform.md)
