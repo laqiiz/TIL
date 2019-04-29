@@ -1,6 +1,8 @@
 # bash
 
 return code of grep command.
+grepに一致しなかった場合、error状態になる。
+Jenkins Scriptでのgroovyでshell実行したときにこの仕様に気が付かずハマった.
 
 ```sh
 # find and return code zero
