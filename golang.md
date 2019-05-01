@@ -37,7 +37,7 @@ Debugger finished with exit code 1
 ```golang
 // struct tag is `bigquery`
 type Cost struct {
-	ProjectName string `bigquery:"project_name"`
+	ProjectName string `bigquery:"project_name,nullable"`
 	Day         string `bigquery:"export_time"`
 	Cost        int    `bigquery:"cost"`
 }
