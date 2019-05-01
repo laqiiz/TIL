@@ -50,7 +50,8 @@ type Cost struct {
 	var timeseries []Cost
 	for {
 		var cost Cost
-		if err := it.Next(&cost); err == iterator.Done {
+		err := it.Next(&cost) // must not inline L54!!
+		if err == iterator.Done {
 			break
 		}
 		if err != nil {
