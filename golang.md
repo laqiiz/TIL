@@ -12,7 +12,14 @@
 
 * `gometalinter`
   * `$FileDir$ --fast --disable=dupl --disable=golint`
-  
+  * gometalinter is deperecated!! use [golangci-lint](https://github.com/golangci/golangci-lint)
+
+* golangci-lint
+  * 5x faster than gometalinter
+
+* [GolangCI](https://golangci.com/)
+  * SaaS Service that using golangci-lint and integrate with GitHub repository.
+  * work time is within 1 minute!!
 
 ## Debugger error
 
