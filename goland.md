@@ -4,17 +4,24 @@
 
 * [CheetSheet - PDF - Japanese](https://pleiades.io/sites/willbrains.jp/keymap/pdf/shortcut_goland_windows.pdf)
 
+
 ## Shortcut
 
 The order I use frequently.
 
-* Formatter:  Ctl + Alt + L
+### Edit
 
-* Move line: Shift + Alt + Up/Down
+* Formatter:  `Ctl + Alt + L`
 
-* Run: Alt + Shift + F10
+* Move line: `Shift + Alt + Up/Down`
 
-* Embed variable: Ctl + Alt + N
-  * Extract variable: Ctl + Alt + V
+* Run: `Alt + Shift + F10`
+
+* Embed variable: `Ctl + Alt + N`
+* Extract variable: `Ctl + Alt + V`
+
+### Search
+
+* File search: `shift + shift`
 
 
