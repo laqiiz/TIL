@@ -6,11 +6,21 @@ https://swagger.io/docs/specification/data-models/data-types/
 
 ```yaml
 # Integer
-type: integer
-format: int64
-description: value of xxxx
-minimum: 1
-maximum: 20
+timeout:
+  type: integer
+  description: タイムアウト（秒単位）
+  minimum: 1
+  maximum: 30
+  default: 30
+
+# enum
+thumbnail_type:
+   type: string
+   description: 3値のどれかを設定(small, medium, large)
+   enum:
+     - small
+     - medium
+     - large
 ```
 
 ## Tips
