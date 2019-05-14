@@ -13,6 +13,7 @@ I will leave small lessons here that I do not need to write in blogs.
 
 * [Git](git.md)
 * [Go Language](golang.md)
+* [Go-Firestore](go-firestore.md)
 * [Goland](goland.md)
 * [Qiita API v2](qiita_api.md)
 * [Terraform](terraform.md)
