@@ -1,11 +1,8 @@
 # GoLand
 
-## c.f.
+## Shortcut
 
 * [CheetSheet - PDF - Japanese](https://pleiades.io/sites/willbrains.jp/keymap/pdf/shortcut_goland_windows.pdf)
-
-
-## Shortcut
 
 The order I use frequently.
 
@@ -25,3 +22,7 @@ The order I use frequently.
 * File search: `shift + shift`
 
 
+## Plugins
+
+* Swagger integration
+* PlantUML integration
