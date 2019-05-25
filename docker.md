@@ -35,6 +35,9 @@ EXPOSE 8000
 
 ```
 # Mount
+docker run -v /c/Users/laqiiz/Desktop/<any config dir>:/conf:ro alpine
+
+# Mount trouble shooting
 docker run -it -v /c/Users/laqiiz/Desktop/<any config dir>:/conf:ro alpine /bin/sh
 ```
 
