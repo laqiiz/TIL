@@ -24,7 +24,7 @@ RUN apk add --no-cache ca-certificates
 COPY --from=builder /main .
 CMD ["./main", "--host", "0.0.0.0"]
 
-EXPOSE 8000
+EXPOSE <your expose port number>
 ```
 
 ## Mount
