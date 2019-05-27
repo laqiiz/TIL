@@ -15,6 +15,7 @@ I will leave small lessons here that I do not need to write in blogs.
   * [Git](git.md)
   * [Goland](goland.md)
   * [GitHub](github.md)
+  * [curl](curl.md)
 * Design Tool
   * [Swagger v2](swagger-v2.md)
 * Coding
