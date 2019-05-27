@@ -27,7 +27,8 @@ I will leave small lessons here that I do not need to write in blogs.
 * External Service
   * [Qiita API v2](qiita_api.md)
   * GCP
-    * [CloudRun](CloudRun.md)
+    * [Cloud Run](CloudRun.md)
+    * [Cloud PubSub](CloudPubSub.md)
 * Container
   * [Docker](docker.md)
 * Network
